@@ -8,7 +8,7 @@ step 3: right click on any one image and click on  copy > copy all as HAR.<br>
 step 4: now come to console section and type in console section<br>
 &nbsp;&nbsp;&nbsp;            -var har = (ctrl+v) and enter.<br>
 &nbsp;&nbsp;&nbsp;            -har() and enter.<br>
-&nbsp;&nbsp;&nbsp;            -then paste the <a href="https://github.com/aadilkhan08/Console-all-images/blob/main/download.js">Console-all-images</a><br>
+&nbsp;&nbsp;&nbsp;            -then paste the <a href="https://github.com/adii4491/console_all_image/blob/main/console-all-image.js">Console-all-images</a><br>
 step 5: now you see all the image will be shown in line, now copy all image link and paste to your canvas javaScript file and use it.<br>
 <br>
 <br>
